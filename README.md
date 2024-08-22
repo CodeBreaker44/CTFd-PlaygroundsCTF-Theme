@@ -50,7 +50,7 @@ Here are Some Screenshots 👇:
 ### Installation Guide:
 Open your Docker container's terminal then enter the following Command:
 ```
-git clone https://github.com/CodeBreaker44/CTFd-PlaygroundsCTF-Theme.git /opt/CTFd/CTFd/themes/pastel
+git clone https://github.com/CodeBreaker44/CTFd-PlaygroundsCTF-Theme.git /opt/CTFd/CTFd/themes/CTFd-PlaygroundsCTF-Theme
 ```
 Login as Admin and go to: ```Admin Panel > Config > Themes``` and switch the Theme to CTFd-PlaygroundsCTF-Theme and Click on Update.
 
