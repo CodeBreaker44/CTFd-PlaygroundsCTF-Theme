@@ -100,11 +100,12 @@ main {
 html {
     position: relative;
     min-height: 100%;
-    background-image: url("../img/background4.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+    transition: background-image 1s ease-in-out;
 }
+
 
 
 
