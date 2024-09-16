@@ -103,6 +103,7 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     transition: background-image 1s ease-in-out;
 }
 
